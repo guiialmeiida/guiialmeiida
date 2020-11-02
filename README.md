@@ -1,6 +1,6 @@
 <h3 align="center">FullStack Developer</h3>
 
-- 🔭 I’m currently working on [Compasso Uol](Vivo)
+- 🔭 I’m currently working on [Compasso Uol](https://compasso.com.br/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/guiialmeiida](https://github.com/guiialmeiida)
 
